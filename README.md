@@ -44,7 +44,16 @@ Google Play Store or Play Store for Android Market, is a digital distribution se
 
 - **Android Ver** : The Android version on the devices which is required for the Application to be installed, run and function.
 
+## Tasks Performed:
 
+1. Importing Data :- Imported the dataset into Google Colab notebook and converted into a Pandas dataframe using Pandas Library.
+
+2. Data Cleaning :- There were a significant amount of Null Values found in the Google Play Store Apps Datasets
+   - Rating has 1465 null values which contributes 14.14% of the data. Handled by Imputing the values with the Median value of the column.
+   - The 'Type' column contains 1 null value, representing 0.01% of the data. This null value was addressed by replacing it with 'Free,' as it constituted a negligible percentage of the dataset. Additionally, the corresponding 'Price' column value was '0,' indicating that these were indeed free apps.
+   - Current_Ver has 8 null values which contributes 0.07% of the data. Handled by Dropping it as it was in a very less percentage.
+   - Android_Ver has 3 null values which contributes 0.03% of the data. Handled by Dropping it as it was in a very less percentage.
+   - Content_Rating has 1 null value which contributes 0.01% of the data. After all these process, this column was ultimately cleaned.
 
 
 
