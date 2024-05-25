@@ -1,1 +1,4 @@
 # Google Play Store Apps : Exploratory Data Analysis (EDA)
+
+## Problem Statement
+Google Play Store or Play Store for Android Market, is a digital distribution service operated and developed by Google. It serves as the official app store for certified devices running on the Android. The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps. Explore and analyse the data to discover key factors responsible for app engagement and success. This project aims to conduct EDA and extract insights from app data using python and understand user sentiments towards Play Store Applications.
