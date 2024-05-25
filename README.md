@@ -1,5 +1,8 @@
 # Google Play Store Apps : Exploratory Data Analysis (EDA)
 
+![image](https://github.com/sahil-kishor/Exploratory-Data-Analysis-EDA-Project/assets/159517524/311fef32-1728-4b50-9005-e474d5d60674)
+
+
 ## Problem Statement:
 
 Google Play Store or Play Store for Android Market, is a digital distribution service operated and developed by Google. It serves as the official app store for certified devices running on the Android. The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market. Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps. Explore and analyse the data to discover key factors responsible for app engagement and success. This project aims to conduct EDA and extract insights from app data using python and understand user sentiments towards Play Store Applications.
@@ -198,6 +201,12 @@ Google Play needs to focus more on:
 - Overall sentiment count of merged dataset in which Positive sentiment count is 64%, Negative 22% and Neutral 13%.
 
 
+## Author
 
+Sahil Kishor
 
+Project : https://github.com/sahil-kishor/Exploratory-Data-Analysis-EDA-Project/blob/main/Copy_of_Capstone_Project_1_Exploratory_Data_Analysis.ipynb 
 
+Email : kishorsahil555@gmail.com
+
+LinkedIn : www.linkedin.com/in/sahil-kishor
