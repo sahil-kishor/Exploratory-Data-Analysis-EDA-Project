@@ -17,3 +17,34 @@ Google Play Store or Play Store for Android Market, is a digital distribution se
 ## Project Architecture:
 
 ![image](https://github.com/sahil-kishor/Exploratory-Data-Analysis-EDA-Project/assets/159517524/18a2a2e0-99be-471e-8ef4-77d19a9fe4d4)
+
+- **App**	: Name of the Application.
+
+- **Category** : Category in which the App belongs.
+
+- **Rating** : Overall rating of the App given by the Users.	
+
+- **Reviews** : Number of reviews given by the Users.
+
+- **Size** : The total size of the App, i.e, the amount of space it will reqire on a device.	
+
+- **Installs** : The total number of times the Apps have been installed by the users across various devices.	
+
+- **Type** : Describes whether the app is Free or Paid.	
+
+- **Price**	: If the App is of a Paid type then the corresponding amount and if the app is Free then 0.
+
+- **Content Rating** : Decrribes what category of Audience is the App ment for.
+
+- **Genres** : The Genre of the App.
+
+- **Last Updated**	: When was the last update given for the Apps to the users by the Play Store.
+
+- **Current Ver**	: The Current Version of the App that is available on the Play Store with all the latest updates.
+
+- **Android Ver** : The Android version on the devices which is required for the Application to be installed, run and function.
+
+
+
+
+
