@@ -18,6 +18,8 @@ Google Play Store or Play Store for Android Market, is a digital distribution se
 
 ![image](https://github.com/sahil-kishor/Exploratory-Data-Analysis-EDA-Project/assets/159517524/18a2a2e0-99be-471e-8ef4-77d19a9fe4d4)
 
+## *Google Play Store Apps Datset:-*
+
 - **App**	: Name of the Application.
 
 - **Category** : Category in which the App belongs.
@@ -60,6 +62,8 @@ Google Play Store or Play Store for Android Market, is a digital distribution se
    - Converted the datatype of the Price column from string to float and removed the Dollar sign($).
    - Converted the values in the Installs column from string datatype to integer datatype and dropped the Plus(+) sign with it.
    - Changed the values in the Size column to a same unit of measure(MB).
+  
+4. Data Exploration-Univariate & Bivariate Analysis :- Pair plot is used to understand the best set of features to explain a relationship between two variables or to form the most separated clusters. It also helps to form some simple classification models by drawing some simple lines or make linear separation in our data-set.
 
 
 
